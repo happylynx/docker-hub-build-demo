@@ -1,0 +1,1 @@
+Demo of Docker Hub automated build.

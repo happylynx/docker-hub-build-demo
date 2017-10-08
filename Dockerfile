@@ -1,3 +1,3 @@
 FROM fedora:26
 
-CMD echo Hello world
+CMD echo Hello world 2
